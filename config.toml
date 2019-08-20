@@ -1,4 +1,4 @@
-baseurl = "http://www.example.com"
+baseurl = "https://blog.natsuki.cc"
 title = "南宫町"
 theme = "hugo-coder"
 languagecode = "zh"
