@@ -1,0 +1,19 @@
+body {
+  color: #657b83;
+  background-color: #fdf6e3;
+}
+.content .container .about .avatar {
+  display: none;
+}
+h1, h2, h3, h4, h5, h6, .navigation a{
+  color: #657b83;
+}
+.centered .about ul li a {
+  color: #93a1a1;
+}
+.list ul li .title {
+  color: #586e75;
+}
+.list ul li .date {
+  color: #93a1a1;
+}
